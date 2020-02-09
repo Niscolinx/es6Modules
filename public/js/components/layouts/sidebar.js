@@ -9,6 +9,7 @@ class Sidebar {
         profile.loadUserProfile()
 
         console.log('loaded from the Sidebar')
+        console.log('It is working well')
     }
 }
 

@@ -14,6 +14,7 @@ export default class Dashboard {
     const header = new Header()
     const sidebar = new Sidebar()
 
+    console.log('started loading the inner functions')
     console.log(footer.loadFooter())
     console.log(header.loadHeader())
     console.log(sidebar.loadSidebar())

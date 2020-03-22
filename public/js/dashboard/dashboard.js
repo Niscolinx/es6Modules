@@ -17,6 +17,9 @@ export default class Dashboard {
     console.log('started loading the inner functions')
     console.log(footer.loadFooter())
     console.log(header.loadHeader())
+    console.log(sidebar.loadSidebar())
+    console.log(sidebar.loadSidebar())
+    con
 
     console.log('loaded the Dashboard')
    }

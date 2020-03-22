@@ -19,7 +19,6 @@ export default class Dashboard {
     console.log(header.loadHeader())
     console.log(sidebar.loadSidebar())
     console.log(sidebar.loadSidebar())
-    console.log(sidebar.loadSidebar())
 
     console.log('loaded the Dashboard')
    }

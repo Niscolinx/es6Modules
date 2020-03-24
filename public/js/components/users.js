@@ -6,8 +6,6 @@ class Users{
         console.log('loaded from the users')
         console.log('loaded from the users')
         console.log('loaded from the users')
-        console.log('loaded from the users')
-        console.log('loaded from the')
     }
 }
 
